@@ -1,6 +1,7 @@
-function isFromBellville(something) {
-    
-    
-    
-    return status;
+function isFromBellville(numberPlate) {
+  return numberPlate.startsWith("CY");
 }
+
+
+
+
